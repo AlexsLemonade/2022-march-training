@@ -10,11 +10,11 @@ start_date: 2022-03-14
 end_date: 2022-03-18
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
-release_tag: master
+release_tag: 2022-march
 # The Docker user will almost always be ccdl, which is why this is here
 docker_user: ccdl
-docker_repo: DOCKER-REPOSITORY
-docker_tag: DOCKER-TAG
+docker_repo: training_rnaseq
+docker_tag: 2022-march
 # These are for loading Docker images from a file; only relevant for in-person
 docker_targz: ccdl_docker_image.tar.gz
 docker_tar: ccdl_docker_image.tar
