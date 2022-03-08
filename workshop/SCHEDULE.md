@@ -21,7 +21,7 @@ A preliminary schedule for the March 2022 CCDL Virtual Training Workshop appears
 |             | [Consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
 | 5:00  PM    | End             |
 | **Day 2**   | **2022-03-15**  <br> [_**Introduction to Single-cell RNA-seq, Day 1**_](https://github.com/AlexsLemonade/training-modules/tree/master/scRNA-seq#readme) | 
-| 12:00 PM    | scRNA-seq: Introduction  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 12:00 PM    | scRNA-seq: Introduction <br> [Introduction to scRNA-seq slides (PDF)](../slides/2022-03-15_Intro_to_scRNA-seq.pdf) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 12:30 PM    | [scRNA-seq:  Quantification and general QC of tag-based data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/01-scRNA_quant_qc.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 1:30 PM     | [scRNA-seq: Importing data and filtering cells](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/02-filtering_scRNA.nb.html)  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 2:30 PM     | [scRNA-seq: Normalization of expression data](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/03-normalizing_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
