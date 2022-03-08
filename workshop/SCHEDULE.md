@@ -12,7 +12,7 @@ A preliminary schedule for the March 2022 CCDL Virtual Training Workshop appears
 | Time        | Topic                             | Location |
 |-------------|--------------------------------------------|----------------|
 | **Day 1**   | **2022-03-14** <br> [_**Introduction to R and the Tidyverse**_](https://github.com/alexslemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/README.md)                      |
-| 12:00 PM    | Welcome, Introductions and Getting Started     | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 12:00 PM    | Welcome, Introductions and Getting Started  <br> [Welcome slides (PDF)](../slides/2022-03-14_CCDL-Workshop-Intro.pdf)   | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 1:00 PM     | [Introduction to base R](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 2:30 PM     | [Introduction to ggplot2](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 3:30 PM     | [Introduction to the tidyverse](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/intro-to-R-tidyverse/03-intro_to_tidyverse.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
@@ -30,7 +30,7 @@ A preliminary schedule for the March 2022 CCDL Virtual Training Workshop appears
 |             | [Consultation session](workshop-structure.md#consultation-sessions) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
 | 5:00  PM    | End             |
 | **Day 3**   | **2022-03-16**  <br> [_**Single-cell RNA-seq, Day 2**_](https://github.com/AlexsLemonade/training-modules/tree/master/scRNA-seq#readme) | 
-| 12:00 PM    | [scRNA-seq:  Dimension reduction & visualization](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
+| 12:00 PM    | [scRNA-seq:  Dimension reduction & visualization](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/04-dimension_reduction_scRNA.nb.html) <br> [Dimension reduction & clustering slides (pdf)](../slides/2022-03-16_scRNA-seq-Clustering.pdf)| Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call)|
 | 1:30 PM     | [scRNA-seq: Clustering and marker identification](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/05-clustering_markers_scRNA.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 3:00 PM     | Questions and introduction to the exercise | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 |             | [Exercise: scRNA-seq clustering](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq/exercise_02-scrna_clustering.Rmd)
