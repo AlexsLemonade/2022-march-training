@@ -6,7 +6,7 @@ nav_title: Posting an Error
 <p style="margin-top: 20px;"> </p>
 <p>We use the <b>Cancer Data Science Slack</b> team administered by the CCDL for communication.
 If you haven't joined Cancer Data Science Slack yet, you will need to follow the 
-<a href="https://alexslemonade.github.io/{{site.repository}}/virtual-setup/slack-procedures.md">
+<a href="https://alexslemonade.github.io/{{site.repository}}/virtual-setup/slack-procedures.html">
 set up procedures described here</a>.</p>
 <br>
 During and after the workshop, we encourage you to post your code error question to your Slack training channel.
